@@ -1,0 +1,1 @@
+This file is an example, where and how to store your homework.
