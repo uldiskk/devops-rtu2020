@@ -1,0 +1,11 @@
+************* Module homework4_1
+homework4_1.py:6:0: C0304: Final newline missing (missing-final-newline)
+homework4_1.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+homework4_1.py:1:0: C0410: Multiple imports on one line (sys, os) (multiple-imports)
+homework4_1.py:3:0: C0116: Missing function or method docstring (missing-function-docstring)
+homework4_1.py:1:0: W0611: Unused import sys (unused-import)
+homework4_1.py:1:0: W0611: Unused import os (unused-import)
+
+------------------------------------
+Your code has been rated at -5.00/10
+
