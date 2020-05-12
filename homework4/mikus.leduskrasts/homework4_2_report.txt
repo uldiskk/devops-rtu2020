@@ -1,0 +1,8 @@
+************* Module homework4_2
+homework4_2.py:1:0: C0304: Final newline missing (missing-final-newline)
+homework4_2.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+homework4_2.py:1:0: W0611: Unused import antigravity (unused-import)
+
+-------------------------------------
+Your code has been rated at -20.00/10
+
